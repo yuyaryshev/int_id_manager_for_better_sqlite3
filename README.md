@@ -1,0 +1,2 @@
+# int_id_manager_for_better_sqlite3
+int_id_manager_for_better_sqlite3
